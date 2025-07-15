@@ -25,15 +25,17 @@ Usage: [here](docs/Learning_Analytics_Dashboard_User_Guide.pdf)
 
 Where to get help
 ------------------------------------------
+Nadia Conroy <br>
+Postdoc Researcher – Social Media Lab<br> 
+Ted Rogers School of Management <br>
+nadia.k.conroy@gmail.com
+
 Anatoliy Gruzd <br>
 Director – Social Media Lab <br>
 Ted Rogers School of Management <br>
 gruzd@ryerson.ca			<br><br>
 
-Nadia Conroy <br>
-Postdoc Researcher – Social Media Lab<br> 
-Ted Rogers School of Management <br>
-n1conroy@ryerson.ca<br>
+
 
 
 Who maintains and contributes to the project
