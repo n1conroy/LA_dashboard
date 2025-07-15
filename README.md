@@ -36,12 +36,6 @@ Ted Rogers School of Management <br>
 gruzd@ryerson.ca			<br><br>
 
 
-
-
-Who maintains and contributes to the project
---------------------------------------------
-This software is maintained and updated by members of the Social Media Lab, Ted Rogers School of Management. Ryerson University.
-
 *This software is distrubuted under GNU General Public License v3.0 GNU (GPLv3)
 
 *This work was supported in part by eCampusOntario (https://www.ecampusontario.ca/) and The Social Sciences and Humanities Research Council of Canada (http://www.sshrc-crsh.gc.ca/).
